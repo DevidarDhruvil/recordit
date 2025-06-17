@@ -18,6 +18,7 @@ export const filterOptions = [
   "Least Viewed",
 ];
 
+// export const visibilities: Visibility[] = ["public", "private"];
 export const visibilities: Visibility[] = ["public", "private"];
 
 export const ICONS = {
